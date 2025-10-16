@@ -1,4 +1,4 @@
-[![Background](https://tlotd.net/u/social_media_page/background.png 'Background')](https://tlotd.net/u/tlotd)
+[![Background](https://tlotd.net/u/[assets]/background.png 'Background')](https://tlotd.net/u/tlotd)
 # About Us
 
 We are a small gaming community with a shared interest in multiplayer games. The games we are interested in range from Strategy to Survival and even Shooters, we have something for everyone. We play for the fun of it, some more competitively, some less so. Although our play style is mostly casual we are ready to pick a fight. If you're interested, why not visit our history page, learn about us or talk to us on one of our Discord servers?
